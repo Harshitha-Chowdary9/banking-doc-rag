@@ -1,0 +1,14 @@
+[
+  {"question": "What is the monthly fee for the current account?", "expected_doc": "current-account-terms"},
+  {"question": "How much does an arranged overdraft cost in interest?", "expected_doc": "overdraft-policy"},
+  {"question": "How long does a SEPA transfer take to arrive?", "expected_doc": "sepa-transfers"},
+  {"question": "What should I do if my debit card is stolen?", "expected_doc": "lost-card-fraud"},
+  {"question": "What interest rate does the savings account pay?", "expected_doc": "savings-interest"},
+  {"question": "What documents do I need for a mortgage application?", "expected_doc": "mortgage-basics"},
+  {"question": "What ID is required to open an account?", "expected_doc": "kyc-onboarding"},
+  {"question": "How long does the bank take to resolve a complaint?", "expected_doc": "complaint-process"},
+  {"question": "Is there a fee for SEPA instant payments?", "expected_doc": "sepa-transfers"},
+  {"question": "How much deposit protection do savings have?", "expected_doc": "savings-interest"},
+  {"question": "What is the maximum loan-to-value for a mortgage?", "expected_doc": "mortgage-basics"},
+  {"question": "Am I liable for unauthorised card transactions?", "expected_doc": "lost-card-fraud"}
+]
